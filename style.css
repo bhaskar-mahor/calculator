@@ -1,0 +1,22 @@
+.output{
+    height: 50px;
+    text-align: end;
+    font-size: 27px;
+}
+.result{
+    height: 50px;
+    text-align: end;
+    font-size: 27px;
+}
+.calculator{
+    margin-top: 30%;
+    border: 1px solid #000;
+}
+.common{
+    text-align: center;
+    font-size: 27px;
+}
+.common:hover{
+    background-color: #444;
+    cursor: pointer;
+}
